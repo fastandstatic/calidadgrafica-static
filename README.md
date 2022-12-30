@@ -1,0 +1,1 @@
+# calidadgrafica-static
